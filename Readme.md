@@ -27,7 +27,7 @@ This [video](media/poc-demo.mp4) shows the first proof of concept I built. I use
 to activate the control script. The mess of aluminum foil on the left acts as the top and bottom limit switches (see
 *[Diagram](#diagram)* below).
 
-<video controls src="media/poc-demo.mp4"></video>
+![Video showing proof of concept door handle opener](media/poc-demo.mp4)
 
 ## Diagram
 
@@ -86,11 +86,11 @@ cm$ prediction was spot on.
 If you exclusively want to switch the direction of a brushed DC motor, you really only need two relays. By switching the
 relays so that both leads of the motor are connected to the same polarity, the motor will brake (resisting approximately
 its own maximum torque). While this setup is fine, I didn't like the idea of the motor potentially damaging itself or
-the power supply when being turned. To add a fourth "free spinning" mode besides, 'clockwise', 'counter-clockwise', and 'braking',
+the power supply when being turned. To add a fourth 'free spinning' mode besides, 'clockwise', 'counter-clockwise', and 'braking',
 I connected a third relay to one of the motor leads. 
 
 [Video](media/free-spin.mp4) demonstrating free spin after hitting the top limit switch:
-<video controls src="media/free-spin.mp4"></video>
+![Video showing the motor free spinning instead of braking](media/free-spin.mp4)
 
 ## 3D Print
 

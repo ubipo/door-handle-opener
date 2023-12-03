@@ -23,13 +23,13 @@ cable with leads attached](media/nxt-motor-cable.jpg)
 
 ## Proof Of Concept
 
-This [video](media/poc-demo.mp4) shows the first proof of concept I built. I used the [Tasmota](https://tasmota.github.io/) web UI over WiFi
+This [video](media/poc-demo.webm) shows the first proof of concept I built. I used the [Tasmota](https://tasmota.github.io/) web UI over WiFi
 to activate the control script. The mess of aluminum foil on the left acts as the top and bottom limit switches (see
 *[Diagram](#diagram)* below).
 
-https://github.com/ubipo/door-handle-opener/assets/11903688/e7528fe9-791a-475e-85a7-5f3f5710bb17
+[poc-demo.webm](https://github.com/ubipo/door-handle-opener/assets/11903688/f3ec9fbf-c39f-4ded-9815-65a83a61cee8)
 
-[Original video](media/poc-demo.mp4)
+[Original video](media/poc-demo.webm)
 
 
 ## Diagram
@@ -92,11 +92,11 @@ its own maximum torque). While this setup is fine, I didn't like the idea of the
 the power supply when being turned. To add a fourth 'free spinning' mode besides, 'clockwise', 'counter-clockwise', and 'braking',
 I connected a third relay to one of the motor leads. 
 
-[Video](media/free-spin.mp4) demonstrating free spin after hitting the top limit switch:
+[Video](media/free-spin.webm) demonstrating free spin after hitting the top limit switch:
 
-https://github.com/ubipo/door-handle-opener/assets/11903688/7d9d659b-7fcc-40ab-bd0d-d9f6b133597c
+[free-spin.webm](https://github.com/ubipo/door-handle-opener/assets/11903688/c76c5e81-011e-4d35-af59-7ebe8474340a)
 
-[Original video](media/free-spin.mp4)
+[Original video](media/free-spin.webm)
 
 ## 3D Print
 

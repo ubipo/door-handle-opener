@@ -27,7 +27,9 @@ This [video](media/poc-demo.webm) shows the first proof of concept I built. I us
 to activate the control script. The mess of aluminum foil on the left acts as the top and bottom limit switches (see
 *[Diagram](#diagram)* below).
 
-[![Video of proof of concept door opener](media/poc-demo-thumbnail.png)](media/poc-demo.webm)
+[poc-demo.webm](https://github.com/ubipo/door-handle-opener/assets/11903688/1001187f-485e-4dc1-ae70-55adbc46083b)
+
+*[Video file](media/poc-demo.webm)*
 
 
 ## Diagram
@@ -92,7 +94,9 @@ I connected a third relay to one of the motor leads.
 
 [Video](media/free-spin.webm) demonstrating free spin after hitting the top limit switch:
 
-[![Video of free spinning motor](media/free-spin-thumbnail.png)](media/free-spin.webm)
+[free-spin.webm](https://github.com/ubipo/door-handle-opener/assets/11903688/d99cf1fa-c20b-468b-b60f-110abf23f8e4)
+
+*[Video file](media/free-spin.webm)*
 
 ## 3D Print
 
